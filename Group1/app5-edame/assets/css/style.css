@@ -52,4 +52,5 @@ input[type="text"] {
 .err_msg {
   /* display: none; */
   visibility: hidden;
+  margin-bottom: 0;
 }
